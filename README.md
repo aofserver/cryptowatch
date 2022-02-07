@@ -1,4 +1,5 @@
 # cryptowatch
+[Demo](https://nodered.demowebs.store/aofserver/cryptowatch.html)
 
 # Enjoy :)
 
